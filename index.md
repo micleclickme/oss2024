@@ -1,5 +1,5 @@
 ---
-image: "https://raw.githubusercontent.com/sharmaabhishekk/sharmaabhishekk.github.io/master/images/cover_pfp.jpg"
+image: "/assets/OSS_logo.jpg"
 ---
 
 c 01 февраля 2022 по 01 апреля 2022 года проводится общее собрание собственников. Каждый собственник принимает участие в собрании по вопросам вынесенным на [повестку](https://drive.google.com/file/d/1nSqnJ7NxbKMiRT05Chb6h1hupYG3qBBL/view?usp=sharing) и высказывает свое решение, отражая его в [бюллетене](https://drive.google.com/file/d/100L8fvWckabvokjz_OzorN84t56rrDwc/view?usp=sharing) для голосования.
