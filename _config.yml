@@ -7,10 +7,7 @@ locale: ru_RU
 curlang: ru    
 title: Полис на комендантском (Плесецкая, 10)
 description: Информация для собственников жилых и нежилых помещений в многоквартирном доме Полис на комендантском (Плесецкая, 10)
-logo: "https://raw.githubusercontent.com/sharmaabhishekk/sharmaabhishekk.github.io/master/images/cover_pfp.jpg"
-image: "https://raw.githubusercontent.com/sharmaabhishekk/sharmaabhishekk.github.io/master/images/cover_pfp.jpg"
-title_image: "https://raw.githubusercontent.com/sharmaabhishekk/sharmaabhishekk.github.io/master/images/cover_pfp.jpg"
-avatar: "https://raw.githubusercontent.com/sharmaabhishekk/sharmaabhishekk.github.io/master/images/cover_pfp.jpg"
+logo: "/assets/OSS_logo.jpg"
 project_title: Общее собрание собственников 2022
 project_tagline: A GitHub Pages site to showcase repository metadata
 repository_name: ОСС
