@@ -4,5 +4,12 @@ site:
     repository_name: Полис на комендантском (Плесецкая, 10)
 title: Полис на комендантском (Плесецкая, 10)
 description: Информация для собственников жилых и нежилых помещений в многоквартирном доме Полис на комендантском (Плесецкая, 10)
+title_image: "https://raw.githubusercontent.com/sharmaabhishekk/sharmaabhishekk.github.io/master/images/cover_pfp.jpg"
+avatar: "https://raw.githubusercontent.com/sharmaabhishekk/sharmaabhishekk.github.io/master/images/cover_pfp.jpg"
 project_title: Общее собрание собственников 2022
 repository_name: ОСС
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  
