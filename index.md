@@ -3,7 +3,9 @@ image: "/assets/OSS_logo.jpg"
 title: Общее собрание собственников в 2022 году
 ---
 
-c 01 февраля 2022 по 01 апреля 2022 года Управляющая компания (далее УК) ООО «Бон Мезон» проводит общее собрание собственников. Каждый собственник принимает участие в голосовании по вопросам, вынесенным на [повестку](https://drive.google.com/file/d/1nSqnJ7NxbKMiRT05Chb6h1hupYG3qBBL/view?usp=sharing) и высказывает свое решение, отражая его в [бюллетене](https://drive.google.com/file/d/100L8fvWckabvokjz_OzorN84t56rrDwc/view?usp=sharing) для голосования.
+c 01 февраля 2022 по 01 апреля 2022 года Управляющая компания (далее УК) ООО «Бон Мезон» проводит общее собрание собственников. 
+
+Каждый собственник принимает участие в голосовании по вопросам, вынесенным на [повестку](https://drive.google.com/file/d/1nSqnJ7NxbKMiRT05Chb6h1hupYG3qBBL/view?usp=sharing) и высказывает свое решение, отражая его в [бюллетене](https://drive.google.com/file/d/100L8fvWckabvokjz_OzorN84t56rrDwc/view?usp=sharing) для голосования.
 
 Активисты дома внимательно изучили все [документы](https://drive.google.com/drive/folders/10OZe0qrWWzBSur2IVolnQKFBSvOxZfkI?usp=sharing), запрошенные собственниками и предоставленные УК:
 - Отчёт  УК "Бон Мезон" за 2021 год;
