@@ -1,5 +1,5 @@
 ---
-image: "/assets/OSS_logo.jpg"
+image: "/assets/bill.jpg"
 title: Как заполнять бюллетень для голосования
 ---
 
