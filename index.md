@@ -24,7 +24,7 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
 | :---: | :---: | :---: |
-|| :heavy_check_mark: ||
+|| **√** ||
 
 
 <details>
