@@ -43,7 +43,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 2.1. Выбор способа управления - управляющая организация:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| **√** | | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«за»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -58,7 +64,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 2.2. Выбор управляющей организации - ООО «Бон Мезон»:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -85,7 +97,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 2.3. Утверждение условий договора управления МКД:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -97,7 +115,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 3. Утверждение отчёта УК ООО «Бон Мезон» за 2021 год:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -118,7 +142,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 4. Утверждение плана текущего ремонта общего имущества МКД на 2022 год без изготовления проекта:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| **√** | | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«за»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -133,7 +163,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 5. Утверждение отчёта о выполнении плана текущего ремонта общего имущества МКД за 2021 год:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| **√** | | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«за»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -148,7 +184,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 6. Утверждение перечня работ (услуг) и размера оплаты за содержание жилого помещения, текущий ремонт общего имущества МКД:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -178,7 +220,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 7. Утверждение порядка изменения платы за содержание и ремонт жилого помещения, текущий ремонт общего имуществ МКД:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | | **√** |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«воздержался»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -190,7 +238,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 8.1. Разрешить УК использовать общее имущество дома:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -211,7 +265,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 8.2. Утвердить размер ежемесячной арендной платы за предоставление в пользование общедомового имущества:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| **√** | | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«за»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -226,7 +286,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 8.3. Утвердить условия договора предоставления в пользование общего имущества собственников помещений в многоквартирном доме:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -241,7 +307,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 9. Об утверждении собственниками помещений МКД решения о заключении договора на холодное и горячее водоснабжение, водоотведение, электроснабжение и т.д.:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| **√** | | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«за»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -256,7 +328,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 10. Утверждение размера целевого взноса на вывоз сверхнормативного объема ТКО:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -280,7 +358,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 11. О передаче ООО «Бон Мезон» в пользование общего имущества на безвозмездной основе (в данном пункте идёт речь о помещениях, в которых располагается УК: одно в подвале 17-й парадной и два в 12-й парадной):
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -298,7 +382,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 12.1. Утвердить решение о закрытии придомовой территории МКД:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -347,7 +437,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 12.2. Организовать на территории МКД два дополнительных поста КПП:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -357,7 +453,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 12.3. Утверждение целевого взноса на установку дополнительного поста КПП:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary>подробнее</summary>
   <p></p>
@@ -367,7 +469,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 12.4. утверждение решения о модернизации системы СКУД:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
@@ -377,7 +485,13 @@ c 01 февраля 2022 по 01 апреля 2022 года Управляюща
 </details>
 
 ### 12.5. Утверждение размера целевого взноса на модернизацию системы СКУД:
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ЗА &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПРОТИВ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; ВОЗДЕРЖАЛСЯ &nbsp;|
+| :---: | :---: | :---: |
+| | **√** | |
+
 Мы предлагаем по данному вопросу проголосовать <strong>«против»</strong>.
+
 <details>
   <summary><code>подробнее</code></summary>
   <p></p>
