@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"redmine"},
-{"type":"table","name":"users","database":"redmine","data":
-[
 {"id":"397","login":"SuharukOV","employee_id":"619","personnel_number":"РДЗП-00121","name":"Заведующий аптекой"},
 {"id":"3128","login":"FilippovMO","employee_id":"3059","personnel_number":"0В00-00067","name":"Администратор"},
 {"id":"761","login":"MakarovNA","employee_id":"940","personnel_number":"АФЗП-00123","name":"Директор"},
@@ -5487,6 +5483,4 @@
 {"id":"6722","login":"IzmailovaEB","employee_id":"6060","personnel_number":"РДЗП-03857","name":"Санитарка"},
 {"id":"6723","login":"ArbuzovaMO","employee_id":"6061","personnel_number":"РДЗП-03858","name":"Фасовщик"},
 {"id":"6724","login":"VasinMV","employee_id":"6062","personnel_number":"ХМЗП-00385","name":"Специалист сопровождения"}
-]
-}
 ]
