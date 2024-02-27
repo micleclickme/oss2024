@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"redmine"},
-{"type":"table","name":"users","database":"redmine","data":
-[
 {"id":"165","login":"11187","title_name":"Первостольник","resb_name":"Провизор","resb_position_guid":"33ffd2b7-ef7c-11e3-9f76-005056bb7564","personnel_number":"РДЗП-02047","counting_guid":"d2711292-b5fd-11ec-8e9f-005056010546","fire_date":null},
 {"id":"436","login":"12027","title_name":"Гость","resb_name":"Территориальный управляющий","resb_position_guid":"45e2b397-f648-11e5-b8b7-005056bb7564","personnel_number":"ИТ00-00219","counting_guid":"d895ca45-a11a-11e8-80ee-1cc1de03b065","fire_date":"2019-11-21"},
 {"id":"436","login":"12027","title_name":"Гость","resb_name":"Директор","resb_position_guid":"e680fe7b-ef98-11e3-9f76-005056bb7564","personnel_number":"ВТЗП-00160","counting_guid":"0e86d71d-c671-11ea-baac-a0d3c1f4e13b","fire_date":null},
@@ -2597,6 +2593,4 @@
 {"id":"5948","login":"ZvyagincevaPK","title_name":"Консультант","resb_name":"Консультант","resb_position_guid":"615774df-3d18-11e6-b8b7-005056bb7564","personnel_number":"РДЗП-03092","counting_guid":"6e71ba39-eeec-11ed-8eb9-005056010548","fire_date":null},
 {"id":"5104","login":"ZyatevaSB","title_name":"Бухгалтер-кассир","resb_name":"Бухгалтер-кассир","resb_position_guid":"bd9ce3d0-9f91-11e4-ac49-005056bb7564","personnel_number":"РДЗП-02267","counting_guid":"637d71fc-1126-11ed-8ea2-005056010546","fire_date":null},
 {"id":"4669","login":"ZykovVA","title_name":"Ведущий программист 1С","resb_name":"Ведущий программист 1С","resb_position_guid":"70cb63d6-9a0e-11e8-80ee-1cc1de03b065","personnel_number":"ХМЗП-00246","counting_guid":"1aa834cc-726c-11ec-8e9b-005056010547","fire_date":null}
-]
-}
 ]
