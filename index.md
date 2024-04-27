@@ -1,5 +1,5 @@
 ---
-image: "/assets/OSS_logo.jpg"
+image: "/assets/OSS_logo.png"
 title: Общее собрание собственников в 2022 году
 ---
 
