@@ -18,7 +18,7 @@ c 08 мая 2024 года по 07 июня 2024 года по инициатив
 
 Если вы желаете включить свою кандидатуру для избрания в члены Совета дома просим вас [заполнить форму](https://forms.gle/JDPEadhAxmC4c7Db6).
 
-Каждый собственник принимает участие в голосовании по вопросам, вынесенным на [`повестку (pdf, 100 kb)`](https://drive.google.com/file/d/19CJWFQ2yxXuoxvhAE-iC6zKS9zedGHQl/view?usp=drive_link) и высказывает свое решение, отражая его в [`бюллетене (pdf, 2mb)`](https://drive.google.com/file/d/100L8fvWckabvokjz_OzorN84t56rrDwc/view?usp=sharing) для голосования.
+Каждый собственник принимает участие в голосовании по вопросам, вынесенным на [`повестку (pdf, 60 kb)`](https://drive.google.com/file/d/19CJWFQ2yxXuoxvhAE-iC6zKS9zedGHQl/view?usp=drive_link) и высказывает свое решение, отражая его в [`бюллетене (pdf, 100 kb)`](https://drive.google.com/file/d/1lV0vgZRBLykdNu0kRlJOOOBy1VJr6MCt/view?usp=sharing) для голосования.
 
 [`Как заполнять бюллетень`](fillbill.md)
 
