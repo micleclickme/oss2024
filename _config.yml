@@ -6,7 +6,7 @@ site:
 locale: ru_RU     
 title: Полис на комендантском (Плесецкая, 10)
 description: Информация для собственников жилых и нежилых помещений в многоквартирном доме Полис на комендантском (Плесецкая, 10)
-logo: "/assets/OSS_logo.jpg"
+logo: "/assets/OSS_logo.png"
 project_title: Общее собрание собственников 2024
 project_tagline: A GitHub Pages site to showcase repository metadata
 repository_name: ОСС
